@@ -1,5 +1,5 @@
 /**
- * Metanthropes Early Access Orchestrator Module for Foundry VTT
+ * Metanthropes Early Access Homebrew Module for Foundry VTT
  * Author: qp aka The Orchestrator
  *
  * Throughtout this project, I use the following syntax for comments:
@@ -14,10 +14,10 @@
  */
 Hooks.once("init", async function () {
 	//? Orchestrator Module Settings
-	game.settings.register("metanthropes", "metaOrchestrator", {
-		name: "Enable Orchestrator Features",
+	game.settings.register("metanthropes", "metaHomebrew", {
+		name: "Enable Homebrew Features",
 		hint: `
-			Enable this setting to gain access to the Orchestrator Module features.
+			Enable this setting to gain access to the Homebrew Module features.
 			`,
 		scope: "world", //? This specifies if it's a client-side setting
 		config: true, //? This makes the setting appear in the module configuration

@@ -1,7 +1,7 @@
 {
-	"id": "metanthropes-orchestrator",
-	"title": "Metanthropes Orchestrator",
-	"version": "0.9.002",
+	"id": "metanthropes-homebrew",
+	"title": "Metanthropes Homebrew",
+	"version": "0.9.003",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315"
@@ -15,7 +15,7 @@
 			}
 		]
 	},
-	"description": "Metanthropes Early Access Orchestrator Module",
+	"description": "Metanthropes Early Access Homebrew Module",
 	"authors": [
 		{
 			"name": "qp",
@@ -31,16 +31,16 @@
 	"media": [
 		{
 			"type": "setup",
-			"url": "http://localhost:30000/modules/metanthropes-orchestrator/artwork/cover/cover.jpg",
+			"url": "http://localhost:30000/modules/metanthropes-homebrew/artwork/cover/cover.jpg",
 			"flags": {},
 			"loop": false
 		}
 	],
-	"esmodules": ["module/metanthropes-orchestrator.mjs"],
-	"url": "https://github.com/legitamine/metanthropes-orchestrator",
-	"manifest": "https://github.com/legitamine/metanthropes-orchestrator/releases/latest/download/module.json",
-	"license": "https://github.com/legitamine/metanthropes-orchestrator/blob/main/LICENSE.txt",
-	"readme": "https://github.com/legitamine/metanthropes-orchestrator/blob/main/readme.md",
-	"changelog": "https://github.com/legitamine/metanthropes-orchestrator/blob/main/changelog.md",
-	"bugs": "https://gitub.com/legitamine/metanthropes-orchestrator/issues"
+	"esmodules": ["module/metanthropes-homebrew.mjs"],
+	"url": "https://github.com/legitamine/metanthropes-homebrew",
+	"manifest": "https://github.com/legitamine/metanthropes-homebrew/releases/latest/download/module.json",
+	"license": "https://github.com/legitamine/metanthropes-homebrew/blob/main/LICENSE.txt",
+	"readme": "https://github.com/legitamine/metanthropes-homebrew/blob/main/readme.md",
+	"changelog": "https://github.com/legitamine/metanthropes-homebrew/blob/main/changelog.md",
+	"bugs": "https://gitub.com/legitamine/metanthropes-homebrew/issues"
 }
