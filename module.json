@@ -1,7 +1,7 @@
 {
 	"id": "metanthropes-orchestrator",
 	"title": "Metanthropes Orchestrator",
-	"version": "0.9.001",
+	"version": "0.9.002",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315"
