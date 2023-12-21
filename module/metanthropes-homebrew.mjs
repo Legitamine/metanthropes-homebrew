@@ -13,7 +13,7 @@
  *
  */
 Hooks.once("init", async function () {
-	//? Orchestrator Module Settings
+	//? Homebrew Module Settings
 	game.settings.register("metanthropes", "metaHomebrew", {
 		name: "Enable Homebrew Features",
 		hint: `

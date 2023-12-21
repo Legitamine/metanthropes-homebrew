@@ -1,7 +1,7 @@
 {
 	"id": "metanthropes-homebrew",
 	"title": "Metanthropes Homebrew",
-	"version": "0.9.003",
+	"version": "0.9.004",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11.315"
